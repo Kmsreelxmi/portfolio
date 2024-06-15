@@ -74,7 +74,7 @@ body,
 button,
 input {
     font-family : var(--body-font);
-    font-size: var(--normal-font-size);
+    font-size:  var(--normal-font-size);
 }
 
 body{
